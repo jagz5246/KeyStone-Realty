@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/keystone-realty/static/css/main.d4082ff2.css",
+    "main.js": "/keystone-realty/static/js/main.8e19dc6a.js",
+    "static/media/houseCard.png": "/keystone-realty/static/media/houseCard.b164fdcab9974e15c6c3.png",
+    "static/media/image1.png": "/keystone-realty/static/media/image1.a91171abd2c846f088ab.png",
+    "static/media/image3.png": "/keystone-realty/static/media/image3.46d371a99313f7e49461.png",
+    "static/media/logos.png": "/keystone-realty/static/media/logos.1316ef50d84b10ee5041.png",
+    "static/media/image2.png": "/keystone-realty/static/media/image2.f191b993bad07dd4bd02.png",
+    "static/media/logo.png": "/keystone-realty/static/media/logo.240f25a2df52fca1c226.png",
+    "static/media/hero_illustration.png": "/keystone-realty/static/media/hero_illustration.afabab90d016e1e52e62.png",
+    "static/media/illustration.png": "/keystone-realty/static/media/illustration.0342199a2428a6c999de.png",
+    "index.html": "/keystone-realty/index.html",
+    "main.d4082ff2.css.map": "/keystone-realty/static/css/main.d4082ff2.css.map",
+    "main.8e19dc6a.js.map": "/keystone-realty/static/js/main.8e19dc6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4082ff2.css",
+    "static/js/main.8e19dc6a.js"
+  ]
+}
