@@ -7,7 +7,7 @@ import logosImg from "../media/logos.png";
 const Companies = () => {
   const CustomContainer = styled(Container)(({ theme }) => ({
     display: "flex",
-    justifyContent: "space-center",
+    justifyContent: "center",
     [theme.breakpoints.down("md")]: {
       flexDirection: "column",
       alignItems: "center",
