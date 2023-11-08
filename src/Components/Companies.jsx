@@ -33,7 +33,7 @@ const Companies = () => {
               mt: 2,
             }}
           >
-            More than 45,000 trust Keystone
+            More than 45,000 trust Keystone realty
           </Typography>
         </CustomBox>
       </CustomContainer>
