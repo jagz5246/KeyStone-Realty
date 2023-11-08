@@ -7,7 +7,7 @@ import logosImg from "../media/logos.png";
 const Companies = () => {
   const CustomContainer = styled(Container)(({ theme }) => ({
     display: "flex",
-    justifyContent: "space-between",
+    justifyContent: "space-center",
     [theme.breakpoints.down("md")]: {
       flexDirection: "column",
       alignItems: "center",
@@ -24,7 +24,21 @@ const Companies = () => {
 
   return (
     <Box sx={{ mt: 10 }}>
-     
+      <CustomContainer>
+        <CustomBox>
+          <Typography
+            variant="body2"
+            sx={{
+              color: "#7D8589",
+              fontSize: "24px",
+              fontWeight: "bold",
+              mt: 2,
+            }}
+          >
+            More than 45,000 trust Keystone
+          </Typography>
+        </CustomBox>
+      </CustomContainer>
 
       <Container sx={{ display: "flex", flexDirection: "column" }}>
         <img src={logosImg} alt="logos" />
