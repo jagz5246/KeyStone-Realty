@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <Hero />
-      <Companies />
+{/*       <Companies /> */}
       <Guide />
       <Properties />
       <Details />
