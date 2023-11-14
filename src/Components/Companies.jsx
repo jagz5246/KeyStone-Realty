@@ -10,7 +10,7 @@ const Companies = () => {
       flexDirection: "column",
       alignItems: "center",
       textAlign: "center",
-      marginBottom: theme.spacing(4),
+      marginBottom: theme.spacing(4)
     },
   }));
 
